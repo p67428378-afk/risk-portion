@@ -1,0 +1,4 @@
+# File: config.py
+
+QUOTA_SHARE_CESSION_RATE = 0.40  # 40%
+RETENTION_CAP = 50000.0  # $50,000
