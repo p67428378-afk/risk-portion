@@ -1,29 +1,15 @@
-# File: .gitignore
-
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.pyc
-*.pyd
 *.pyo
-
-# Virtual environment
-virtualenv/
-.venv/env/
-
-# Editors
-.vscode/
+*.pyd
+.Python
+env/
+venv/
+.venv/
+# IDEs
 .idea/
-
-# OS generated files
+.vscode/
+# OS
 .DS_Store
-thumbs.db
-
-# Logs
-*.log
-
-# Environment variables
 .env
-.env.*
-
-# Docker
-Dockerfile.bak
