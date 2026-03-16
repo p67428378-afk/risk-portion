@@ -1,9 +1,9 @@
-
+"""
 Module: app.models
 Purpose: Defines Pydantic models for request and response data structures.
 Author: Developer Agent
 Created: 2023-10-27
-
+"""
 
 from pydantic import BaseModel, Field
 
