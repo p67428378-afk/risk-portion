@@ -1,9 +1,9 @@
-
+"""
 Module: app.main
 Purpose: Main FastAPI application for the Risk Cession Service.
 Author: Developer Agent
 Created: 2023-10-27
-
+"""
 
 from fastapi import FastAPI, HTTPException, status
 from app.models import PolicyInput, CessionOutput
