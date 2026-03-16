@@ -1,0 +1,29 @@
+# File: .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+virtualenv/
+.venv/env/
+
+# Editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Docker
+Dockerfile.bak
