@@ -1,9 +1,9 @@
-
+"""
 Module: app.services
 Purpose: Implements the core business logic for risk cession calculations.
 Author: Developer Agent
 Created: 2023-10-27
-
+"""
 
 from config import QUOTA_SHARE_CESSION_RATE, RETENTION_CAP
 
